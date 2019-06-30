@@ -1,0 +1,9 @@
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.csprojAssemblyReference.cache
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.csproj.CoreCompileInputs.cache
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.AssemblyInfoInputs.cache
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.AssemblyInfo.cs
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\bin\Debug\netstandard1.3\Merged.Standard.deps.json
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\bin\Debug\netstandard1.3\Merged.Standard.dll
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\bin\Debug\netstandard1.3\Merged.Standard.pdb
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.dll
+C:\Users\Nauman\Desktop\Namespacing\custom header Signature\CSharp\Merged.Standard\obj\Debug\netstandard1.3\Merged.Standard.pdb
